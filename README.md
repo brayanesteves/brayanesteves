@@ -30,7 +30,9 @@ page_facing_up Know about my experiences https://github.com/brayanesteves?tab=re
 [![](https://visitcount.itsvg.in/api?id=brayanesteves&icon=2&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@brayanesteves93) 
+  #### Help me for more developments, I would appreciate it.
+  [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://s.binance.com/xgKLGtyZ) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
