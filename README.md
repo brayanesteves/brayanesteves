@@ -22,6 +22,7 @@ page_facing_up Know about my experiences https://github.com/brayanesteves?tab=re
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brayanesteves&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5WXDI7)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
