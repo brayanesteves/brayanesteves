@@ -22,7 +22,6 @@ page_facing_up Know about my experiences https://github.com/brayanesteves?tab=re
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brayanesteves&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5WXDI7)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
@@ -33,6 +32,7 @@ page_facing_up Know about my experiences https://github.com/brayanesteves?tab=re
   ## 💰 You can help me by Donating
   #### Help me for more developments, I would appreciate it.
   [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://s.binance.com/xgKLGtyZ) 
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5WXDI7)
 
 
   
